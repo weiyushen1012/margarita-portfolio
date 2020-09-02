@@ -1,12 +1,12 @@
 <template>
-  <section class="hero is-primary is-medium">
+  <section class="hero is-info is-large">
     <div class="container">
       <div class="columns ">
         <div class="column">
           <div class="hero-body">
             <div class="introduction container">
               <h2 class="title">
-                Director, Editor, Screen Writer
+                Director, Video Editor, Screen Writer
               </h2>
               <br>
               <p class="subtitle">
@@ -23,7 +23,7 @@
         </div>
 
         <div class="video-reel column">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/KYSiuH8Ln4w" frameborder="0"
+          <iframe width="560" height="310" src="https://www.youtube.com/embed/KYSiuH8Ln4w" frameborder="0"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   allowfullscreen></iframe>
         </div>
